@@ -1,0 +1,9 @@
+{
+  "name": "PulseSec",
+  "version": "1.3.9",
+  "date": "2026-11-24",
+  "notes": "Updates now come straight from the PulseSec GitHub repository.",
+  "size": 87597324,
+  "sha256": "c1c9b890db5cc0721b00cc1ddb9fd599f46bb95df58301390a3b5a1e6e9e0aaf",
+  "installer": "https://github.com/Degederon/PulseSec/raw/main/PulseSec-Setup.exe"
+}
