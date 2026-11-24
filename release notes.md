@@ -1,6 +1,9 @@
 # PulseSec release notes
 
-## 1.3.10
+## 1.3.12
+- Cleaner What's new list in Settings.
+
+## 1.3.10 – 1.3.11
 - The version number now shows next to the PulseSec name at the top left. Click it to see what's new.
 
 ## 1.3.9
