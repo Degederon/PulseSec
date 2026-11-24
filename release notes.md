@@ -1,5 +1,8 @@
 # PulseSec release notes
 
+## 1.3.10
+- The version number now shows next to the PulseSec name at the top left. Click it to see what's new.
+
 ## 1.3.9
 - **Updates now come straight from this GitHub repository.**
 

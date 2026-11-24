@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white" alt="Windows 10 | 11">
   <img src="https://img.shields.io/badge/Electron-33-47848F?logo=electron&logoColor=white" alt="Electron 33">
-  <img src="https://img.shields.io/badge/version-1.3.9-8A2BE2" alt="Version 1.3.9">
+  <img src="https://img.shields.io/badge/version-1.3.10-8A2BE2" alt="Version 1.3.10">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT">
 </p>
 
